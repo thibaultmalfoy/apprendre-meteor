@@ -14,9 +14,9 @@ Pour Linux et MacOS, l'installation la plus simple consiste à exécuter la comm
 $ curl https://install.meteor.com | /bin/sh
 ```
 
-Meteor installe tous ses fichiers dans le répertoire `~/.meteor/`, et ajoute un unique script exécutable situé ici: `/usr/local/bin/meteor`.
+Meteor installe tous ses fichiers dans le répertoire `~/.meteor/`, et ajoute un unique script exécutable situé ici&nbsp;: `/usr/local/bin/meteor`.
 
->  Pour supprimer Meteor de votre ordinateur, il vous faut donc supprimer ces deux éléments:
+>  Pour supprimer Meteor de votre ordinateur, il vous faut donc supprimer ces deux éléments&nbsp;:
 >
 > ```bash
 > $ rm -rf ~/.meteor/
@@ -61,7 +61,7 @@ $ meteor run
 
 > Si aucune action n'est spécifiée, l'action par défaut est `run`, vous pouvez donc écrire indifféremment `meteor run` ou plus simplement `meteor` pour démarrer l'application Meteor située dans le répertoire courant.
 
-Cette commande lance un serveur local pour le développement. Vous pouvez vous y connecter à l'adresse <http://localhost:3000> dans votre navigateur. Vous devriez alors voir apparaître l'application "Hello world" créée par défaut&nbsp;:
+Cette commande lance un serveur local pour le développement. Vous pouvez vous y connecter à l'adresse <http://localhost:3000> dans votre navigateur. Vous devriez alors voir apparaître l'application «&nbsp;Hello world&nbsp;» créée par défaut&nbsp;:
 
 ![L'application par défaut](img/first-app.png)
 
